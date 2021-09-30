@@ -1,4 +1,7 @@
 # math-basics
+### please start solving the below exercises with writing an algorithm , either psudo code or flow chart or both of them.
+
+~ Time : 1:45 - 2:00 hours 
 
 **1.**  Write a Java program to round up the result of integer division. 
 
