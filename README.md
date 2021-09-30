@@ -23,3 +23,20 @@
 **10.**  Write a Java program to accept two integers and return true if the either one is 15 or if their sum or difference is 15.  
 
 **11.**  Write a Java program to count the number of prime numbers less than a given positive number. )
+
+```
+Tip :
+
+        String str = "Math";  
+    if(str == "math"){  
+      // do this  
+      System.out.println(str);  
+    }else if (str == "math basics"){  
+      // do this  
+      System.out.println(str);  
+    }else{  
+      // do that  
+      System.out.println(str);  
+    }
+
+```
