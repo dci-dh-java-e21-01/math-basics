@@ -6,7 +6,7 @@
 
 **3.**  Write a Java program to test if a double number is an integer. 
 
-**4.**  Write a Java program to round a float number to specified decimals.  
+**4.**  Write a Java program to round a float number to specified decimals ( 2 decimals).  
 
 **5.**  Write a Java program to count the absolute distinct value in an array.  
 
