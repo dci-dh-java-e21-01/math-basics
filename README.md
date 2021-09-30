@@ -12,6 +12,8 @@
 
 **6.**  Write a Java program to convert Roman number to an integer number. 
 
+![enter image description here](https://wmznlejcfq.s3-ap-southeast-1.amazonaws.com/media/roman-numerals/roman-numerals-1-to-10.png)
+
 **7.**  Write a Java program to convert an integer value to absolute value.  
 
 **8.**  Write a Java program to convert a float value to absolute value.  
