@@ -8,7 +8,7 @@
 
 **4.**  Write a Java program to round a float number to specified decimals ( 2 decimals).  
 
-**5.**  Write a Java program to reverse an integer number.  
+**5.**  Write a Java program to reverse an integer number.  (optional)
 
 **6.**  Write a Java program to convert Roman number to an integer number. 
 
