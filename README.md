@@ -24,6 +24,8 @@
 
 **11.**  Write a Java program to count the number of prime numbers less than a given positive number. )
 
+>> A prime number cannot be divided by any other numbers without leaving a remainder.
+
 ```
 Tip :
 
