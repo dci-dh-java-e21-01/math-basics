@@ -1,6 +1,20 @@
 # math-basics
 ### please start solving the below exercises with writing an algorithm , either psudo code or flow chart or both of them.
 
+### The Steps of Solving these exercises :
+- Step1 : Go to the IDE and Create a new Project.
+- Step 2 : in the IDE terminal apply : git init
+- Step 3 : apply also : git checkout -b main
+- Step 4 : accept the classroom invite and copy you Repo SSH
+- Step 5 : in the IDE terminal apply : git remote add origin <Repo SSH>
+- Step 6 : in the IDE terminal apply : git pull origin main
+- Step 6 : apply the lazy command : mkdir -p src/{main,test}/{java,resources}
+- Step 7 : git add . then git commit -m "init commit" then git push -u origin main
+- Step 8 : go to src / main / java : create a new Package named  ex1
+- Step 9 : go to ex1 and create a Ex1 Java Class , also README.md file
+- Step 10: after solving ex1 : go to the IDE terminal :  git add . then git commit -m "ex1 commit" then git push -u origin main
+- Step 11 : repeate Step 8, Step 9, Step 10 for every exercise
+
 ~ Time : 1:45 - 2:00 hours 
 
 **1.**  Write a Java program to round up the result of integer division. 
