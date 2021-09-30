@@ -15,7 +15,7 @@
 - Step 10: after solving ex1 : go to the IDE terminal :  git add . then git commit -m "ex1 commit" then git push -u origin main
 - Step 11 : repeate Step 8, Step 9, Step 10 for every exercise
 
-~ Time : 1:45 - 2:00 hours 
+> ~ Time : 1:45 - 2:00 hours 
 
 **1.**  Write a Java program to round up the result of integer division. 
 
